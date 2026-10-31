@@ -1,0 +1,6 @@
+"""Package entry point."""
+
+from github_to_docs.cli.main import app
+
+if __name__ == "__main__":
+    app()
